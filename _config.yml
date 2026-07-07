@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Liu Run Homepage"
 description              : "Welcome to my world. "
-repository               : "lrandirene/lrandirene.github.io"
+repository               : "lrandirene/runliu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Liu Run"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Wuhan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
