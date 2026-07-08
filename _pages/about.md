@@ -62,8 +62,8 @@ Guancheng Wan, Xu Cheng, **Run Liu**, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin
   Open-source two-layer automated evaluation framework for multi-type LLM training data.
 
   **My Core Work**:
-  1. Develop the complete image-text multimodal evaluation pipeline, including data loader, format checker, visual quality & cross-modal alignment metrics.
-  2. Build a semi-structured knowledge graph evaluation module, supporting structural audit and semantic factual validation for graph triples.
+1. Develop the complete image-text multimodal evaluation pipeline, including data loader, format checker, visual quality & cross-modal alignment metrics.
+2. Build a semi-structured knowledge graph evaluation module, supporting structural audit and semantic factual validation for graph triples.
 
 # 🎖 Honors and Awards
 - *2025.12* the Lei Jun Scholarship. 
