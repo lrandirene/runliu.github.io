@@ -10,7 +10,7 @@ title                    : "Liu Run Homepage"
 description              : "Welcome to my world. "
 repository               : "lrandirene/runliu.github.io"
 google_scholar_stats_use_cdn : true
-baseurl: ""
+baseurl: "/runliu.github.io"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
