@@ -59,7 +59,8 @@ Guancheng Wan, Xu Cheng, **Run Liu**, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin
 
 # 🧩 **Projects**
 - ### **LLM-Training-Data-Eval: Multi-Modality LLM Training Data Quality Evaluation Framework**
-- [GitHub](https://github.com/lhz191/LLM-Training-Data-Eval)
+  
+  [GitHub](https://github.com/lhz191/LLM-Training-Data-Eval)
   Open-source two-layer automated evaluation framework for multi-type LLM training data.
 
   **My Core Work**:
